@@ -1,0 +1,4 @@
+Run Frontend & Backend
+
+Frontend:npm start
+Backend: nodemon app.js
